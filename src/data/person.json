@@ -1,0 +1,95 @@
+{
+    "name": "Mikhail",
+    "long_name": "Akavity Mikhail",
+    "position": "Front-end developer",
+    "summary": "I am a perfect, I am the beter",
+    "date_of_birth": "1976-01-01",
+    "phone": "+79123123123",
+    "links": [
+        {
+            "name": "Github",
+            "value": "https://github.com/1iekim",
+            "display": "https://github.com/1iekim"
+        },
+        {
+            "name": "Email",
+            "value": "mailto: mail@gmail.com",
+            "display": "mail@gmail.com"
+        }
+    ],
+    "facts": [
+        {
+            "name": "Main stack",
+            "value": "Single page application on React."
+        }
+    ],
+    "available": true,
+    "need_relocation": false,
+    "services": {
+        "summary": "As a programmer, I am just starting this journey from the position of front-end developer.",
+        "items": ["Front-end development", "Code review"]
+    },
+    "skills": {
+        "summary": "I am a quick learner and have skills like: ",
+        "main": [
+            {
+                "name": "JavaScript",
+                "percentage": 80
+            },
+            {
+                "name": "TypeScript",
+                "percentage": 50
+            },
+            {
+                "name": "HTML",
+                "percentage": 70
+            },
+            {
+                "name": "CSS",
+                "percentage": 60
+            }
+        ],
+        "secondary": ["Webpack", "SCSS", "Figma", "React.js", "Node.js", "Git"]
+    },
+    "experiences": [
+        {
+            "position": "Fullstack developer",
+            "company": "Company",
+            "start": "2020-01-01",
+            "end": "2022-01-01",
+            "description": "I took part in developing of three web applications: <a href=\"https://google.com\" target=\"blank\">google website</a>, other cool site for real estate. One of them created as ASP.NET Core web API with SPA front-end on the React.js, other one - monolith ASP.NET Core apps with Razor pages and Vue.js front-end.",
+            "technologies": [ "C#", "PostgreSQL", "JavaScript", "Vue.js", "React.js" ]
+        },
+        {
+            "position": "Fullstack developer",
+            "company": "Other company",
+            "start": "2022-01-02",
+            "description": "I took part in developing of three web applications: <a href=\"https://google.com\" target=\"blank\">google website</a>, other cool site for real estate. One of them created as ASP.NET Core web API with SPA front-end on the React.js, other one - monolith ASP.NET Core apps with Razor pages and Vue.js front-end.",
+            "technologies": [ "C#", "PostgreSQL", "JavaScript", "Vue.js", "React.js" ]
+        }
+    ],
+    "testimonials": [
+        {
+            "title": "John Doe",
+            "position": "Full-stack developer at Google",
+            "links": [
+                {
+                    "name": "Email",
+                    "value": "mailto: konvpalto87@gmail.com",
+                    "display": "konvpalto87@gmail.com"
+                }
+            ]
+        },
+        {
+            "title": "Ivanov Ivan",
+            "position": "Back-end team lead at Facebook",
+            "links": [
+                {
+                    "name": "Email",
+                    "value": "mailto: konvpalto87@gmail.com",
+                    "display": "konvpalto87@gmail.com"
+                }
+            ]
+        }
+    ]
+}
